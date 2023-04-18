@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "The Salt Lick BBQ",
+      "location": "18300 FM 1826, Driftwood, TX 78619",
+      "food": "RICE",
+      "price": "$150",
+      "image": "image24"
+    },
+    {
+      "id": "2",
+      "name": "Franklin Barbecue",
+      "location": "900 E 11th St, Austin, TX 78702",
+      "food": "Beans",
+      "price": "$230",
+      "image": "image21"
+    },
+    {
+      "id": "3",
+      "name": "La Barbecue",
+      "location": "1906 E Cesar Chavez St, Austin, TX 78702",
+      "food": "Semolina",
+      "price": "$300",
+      "image": "image22"
+    },
+    {
+      "id": "4",
+      "name": "Torchy's Tacos",
+      "location": "1822 S Congress Ave, Austin, TX 78704",
+      "food": "Salad",
+      "price": "$420",
+      "image": "image23"
+    },
+    {
+      "id": "5",
+      "name": "Pappas Bros. Steakhouse",
+      "location": "10477 Lombardy Ln, Dallas, TX 75220",
+      "food": "Steak",
+      "price": "$500",
+      "image": "image5"
+    }
+  ]
+
+
